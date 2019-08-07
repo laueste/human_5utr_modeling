@@ -1,7 +1,9 @@
 
 # Don't track these folders
 ./data
-
+./modeling/saved_*
 
 # Don't track ipython notebook checkpoints
-.ipynb_checkpoint*
+./modeling/.ipynb_checkpoint*
+./sequence_design/.ipynb_checkpoint*
+./human_5utrs/.ipynb_checkpoint*
