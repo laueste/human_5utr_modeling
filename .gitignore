@@ -2,6 +2,7 @@
 # Don't track these folders
 ./data
 ./modeling/saved_*
+./modeling/.ipynb_checkpoints
 
 # Don't track ipython notebook checkpoints
 ./modeling/.ipynb_checkpoint*
